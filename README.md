@@ -1,3 +1,8 @@
-# Grokked algorithms
+Grokked algorithms
+==================
 
 Implementations of a few algorithms for fun and profit!
+
+Completed
+---------
+* Binary Search
