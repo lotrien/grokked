@@ -7,3 +7,4 @@ Completed
 ---------
 * Binary Search
 * Bubble Sort
+* Selection Sort
